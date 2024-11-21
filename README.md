@@ -1,4 +1,3 @@
-# omarshamim.github.io
+I am a seasoned Full Stack .NET Developer with over 7 years of experience in designing, developing, and maintaining scalable, efficient, and robust software solutions. I am passionate about clean coding, test-driven development, and domain-driven design, striving to create architectures that are sustainable, modular, and adaptable to changing requirements.
 
-### Omar's personal website for sharing my work with everyone, running on React.
-
+My expertise spans both frontend and backend development, combined with a strong focus on system design and architecture. I thrive in agile environments, leveraging collaboration and adaptability to deliver impactful solutions. With a proactive learning mindset, I excel in driving projects to successful completion while maintaining the highest quality standards.
